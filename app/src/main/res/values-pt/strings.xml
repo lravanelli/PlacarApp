@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bt_comecar_jogo">Começar Jogo</string>
+    <string name="gol">GOL</string>
+    <string name="hint_casa">Digite o nome da casa</string>
+    <string name="hint_time">Digite o nome do time</string>
+    <string name="hint_visitante">Digite o nome visitante</string>
+    <string name="label_desenvolvido_por">Desenvolvido por Luis Fernando</string>
+    <string name="label_titulo">Times</string>
+    <string name="time_da_casa">Time da Casa</string>
+    <string name="timecasa">TIMECASA</string>
+    <string name="timevisitante">TIMEVISITANTE</string>
+    <string name="visitante">Visitante</string>
+</resources>
